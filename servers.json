@@ -6,16 +6,7 @@
 		"color":"ff2624",
 		"action": 1,
 		"key":"",
-		"name":"NEW JERSEY CITY"
-	},
-        {
-		"ip": "191.96.92.62",
-		"port": 2566,
-		"id": 2,
-		"color":"ff2624",
-		"action": 1,
-		"key":"",
-		"name":"NEW JERSEY 2.0"
-	 }
+		"name":"NEWJERSEY 2.0"
+	}
 
 ]
