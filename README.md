@@ -1,2 +1,2 @@
-# Galaxy
-Samp
+.
+
