@@ -1,20 +1,11 @@
 [
 	{
-		"ip": "191.96.92.62",
-		"port": 2566,
+		"ip": "191.96.92.97",
+		"port": 7777,
 		"id": 1,
 		"color":"ff2624",
 		"action": 1,
 		"key":"",
 		"name":"NEW JERSEY CITY & Test"
-	}
-	{
-		"ip": "191.96.92.97",
-		"port": 7777,
-		"id": 2,
-		"color":"ff2624",
-		"action": 2,
-		"key":"",
-		"name":"GalaxyDev FIX"
 	}
 ]
