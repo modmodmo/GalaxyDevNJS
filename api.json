@@ -4,9 +4,9 @@
 
     "gameFilesVersionCode": 13,
 
-    "URL_GAME_FILES" : "http://191.96.92.62/game.zip",
+    "URL_GAME_FILES" : "http://191.96.92.33/game.zip",
 
-    "URL_GAME_FILES_UPD" : "http://191.96.92.62/files_upd.zip",
+    "URL_GAME_FILES_UPD" : "http://191.96.92.33/files_upd.zip",
 
     "URL_VK": "https://",
 
@@ -18,6 +18,6 @@
 
     "URL_DONATE": "https://web.facebook.com/profile.php?id=100074583251001",
 
-    "URL_CLIENT": "http://191.96.92.62/gedwee.apk"
+    "URL_CLIENT": "http://191.96.92.33/gedwee.apk"
 
 }
