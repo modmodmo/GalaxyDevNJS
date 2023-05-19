@@ -2,9 +2,9 @@
 
     "clientVersionCode" : 58,
     
-    "clientSampVersionCode": 2,
+    "clientSampVersionCode": 1,
     
-    "gameFilesVersionCode" : 3,
+    "gameFilesVersionCode" : 1,
 
     "URL_GAME_FILES" : "http://191.96.92.33/game.zip",
 
